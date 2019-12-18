@@ -19,4 +19,7 @@
           android:id="@+id/menu_mine"
           android:icon="@drawable/mine_bg_selected"/>
 
+    <item android:title="@string/menu_project"
+          android:id="@+id/menu_project"
+          android:icon="@drawable/project_bg_selected"/>
 </menu>
